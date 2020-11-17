@@ -1,9 +1,9 @@
-Program3
+Program31stLineChange
 6
 8
-j
+jkk
 fdfkjh
-dfdjhf
+dfdjhfMidChange
 dfjdfgk
-dfdfgn
-END OF FILE
+fdfgn
+END OF FILELastLineChange
